@@ -7,6 +7,14 @@
         "source": "example_device",
         "notes": "Sample data entry"
       }
+    },
+    {
+      "timestamp": "2025-05-20T13:58:30.355601",
+      "data": {
+        "pulse": 75,
+        "source": "example_device",
+        "notes": "Sample data entry"
+      }
     }
   ]
 }
