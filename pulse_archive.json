@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "timestamp": "2025-05-20T13:56:24.519686",
+      "data": {
+        "pulse": 75,
+        "source": "example_device",
+        "notes": "Sample data entry"
+      }
+    }
+  ]
+}
